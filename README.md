@@ -5,7 +5,7 @@ This script will grab your signature.jpg, make a transparent background from all
 
 ## Input 
 
-[](https://github.com/Diwas524/Signature-Background-Deletion---Python-/blob/main/2.jpg)
+![](https://github.com/Diwas524/Signature-Background-Deletion---Python-/blob/main/2.jpg)
 
 ## Output
-[](https://github.com/Diwas524/Signature-Background-Deletion---Python-/blob/main/img2.png)
+![](https://github.com/Diwas524/Signature-Background-Deletion---Python-/blob/main/img2.png)
